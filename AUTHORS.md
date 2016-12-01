@@ -1,21 +1,22 @@
 Ript was designed and built by:
 
-Lindsay Holmwood (@auxesis)
-Steve Fisher (@laminat0r)
+ - Lindsay Holmwood (@auxesis)
+ - Steve Fisher (@laminat0r)
 
 Patches have been merged from:
 
-Arthur Barton (@arthurbarton)
-John Ferlito (@johnf)
-Jesse Reynolds (@jessereynolds)
-Michael Baker (@elmobp)
-Greg Cockburn (gergnz)
+ - Arthur Barton (@arthurbarton)
+ - John Ferlito (@johnf)
+ - Jesse Reynolds (@jessereynolds)
+ - Michael Baker (@elmobp)
+ - Greg Cockburn (gergnz)
 
 Inspiration given by:
 
-Matt Moor (@mattm0)
+- Matt Moor (@mattm0)
 
-Contact:
-foundation@bulletproof.net will send an email to the development team wihtibn Bulletproof Networks, any issues should be raised via Github.
+Emails to foundation@bulletproof.net will be received by the Bulletproof Networks development team.
+
+Any issues should be raised via GitHub.
 
 Ript is copyright Bulletproof Networks 2011-2016, all rights reserved.
